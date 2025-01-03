@@ -1,9 +1,8 @@
-<html>
-<head>
-<title>ブックマークレット</title>
-</head>
-<body>
-<a href="javascript:window.open(document.getElementById('iframe-game').src)">ブックマークレット</a><br />
-上のリンクをブックマークバーへドラッグしてください。
-</body>
-</html>
+# 使い方
+* index.html 内のリンクをブックマークにドラッグし保存する。
+* ビビッドアーミーを開く
+* ビビッドアーミーが立ち上がったら、ブックマークから先ほど登録したリンクを開く
+* uuid付きの起動リンクに自動で遷移します。
+
+# できること
+* そのリンクをひらけば誰でもそのアカウントにログインできます。
